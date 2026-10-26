@@ -1,9 +1,0 @@
-{
-  "indexes": [
-    { "collectionGroup": "appointments", "queryScope": "COLLECTION", "fields": [
-      { "fieldPath": "customerUid", "order": "ASCENDING" },
-      { "fieldPath": "startAt", "order": "DESCENDING" }
-    ]}
-  ],
-  "fieldOverrides": []
-}

@@ -1,9 +1,11 @@
 # Hakan Kuaför WordPress Playground
 
-Open the complete WordPress demo in the browser:
+Open the browser demo:
 
 https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fcorrectisis-rgb%2Fkuafor%2Fmain%2Fwordpress-playground%2Fkuafor-playground-blueprint.zip
 
-Each visitor gets an isolated Playground copy. Accounts, appointments, and settings are not shared between visitors. This is a browser-based demo, not a persistent live WordPress hosting service.
+Public, isolated test instance per visitor. Appointments and customer accounts are not shared.
 
-The ZIP contains only the WordPress theme, appointment plugin, and Blueprint setup. It does not include the local WordPress database, customer accounts, appointments, or `wp-config.php`.
+The demo uses the current local business configuration: services Saç kesimi (500 ₺ / 30 min), Sakal tıraşı (300 ₺ / 30 min), Saç + sakal (800 ₺ / 60 min); opening hours 09:00–18:00, break 12:30–13:30, Sunday closed; barbers Hakan, Ahmet, Mehmet.
+
+No customer database, user accounts, appointments, WordPress configuration, or SMTP password is included.
